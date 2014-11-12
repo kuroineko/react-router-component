@@ -4,7 +4,7 @@
   "description": "Declarative router component for React",
   "main": "index.js",
   "dependencies": {
-    "url-pattern": "git://github.com/zerkalica/url-pattern.git",
+    "url-pattern": "git://github.com/kuroineko/url-pattern.git",
     "envify": "^1.2.1",
     "urllite": "~0.4.0"
   },
